@@ -1,7 +1,7 @@
 # CSC207ProjectNBA
 
 <p align="center">
-  <img src = "https://github.com/pete8751/CheckersAI/assets/142231087/9bb9f4c9-e7dd-4657-af5e-afbd8f72a38c" width = "200" height = "200" />
+  <img src = "https://github.com/pete8751/CSC207ProjectNBA/blob/master/src/assests/icons/bball.png" width = "200" height = "200" />
 </p>
 
 This project is an NBA Fantasy League that allows users to build their own NBA team, and compare their team against other users in the fantasy league. Users get live updates on their teams' current performance in the league, and their overall score is 
